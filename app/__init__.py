@@ -47,9 +47,7 @@ class UserModel(db.Model):
 @app.route("/")
 def index():
     return render_template(
-        "blog.html",
-        title="Test Page",
-        text="Test page for now.  Will make new page soon.",
+        "index.html",
     )
 
 

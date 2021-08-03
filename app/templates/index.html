@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="/static/mousetrap.min.js"></script>
+    <title>ToneType</title>
+</head>
+
+<script>
+    Mousetrap.bind('a', function () { console.log("You pressed a!"); }, 'keydown');
+    Mousetrap.bind('a', function () { console.log("You released a!"); }, 'keyup');
+</script>
+
+<body>
+    <h1>Welcome to tonetype!</h1>
+    <h2>Test Mousetrap by pressing a.</h2>
+</body>
+
+</html>
