@@ -1,8 +1,8 @@
-/**{
+*{
     border: none;
     outline-style: none!important;
 }
-*/
+
 body{
     background-color: #fff;
 }
@@ -253,7 +253,7 @@ body{
     color: #111;
     position: absolute;
     padding: 16.125rem 1.525rem 1.125rem 1.125rem;
-    margin-left: 37.0rem;
+    margin-left: 36.9rem;
     z-index: 73;
     background-color: #fff;
     cursor: pointer;
@@ -344,49 +344,56 @@ body{
     border-radius: 0 0 20px 20px;
 }
 
-/* next set 
+/* next step */
 
 .C2_note{
     color: #111;
     position: absolute;
     padding: 16.125rem 1.525rem 1.125rem 1.125rem;
-    z-index: 50;
+    margin-left: 53.2rem;
+    z-index: 87;
     background-color: #fff;
     cursor: pointer;
     left: 1.9rem;
     top: 8.90rem; 
+    border-style: solid;
+    border-color: black;
 }
 
 .D2_note{
     color: #111;
     position: absolute;
     padding: 16.125rem 1.525rem 1.125rem 1.125rem;
-    margin-left: 3.5rem;
-    z-index: 51;
+    margin-left: 57.2rem;
+    z-index: 89;
     background-color: #fff;
     cursor: pointer;
     left: 2rem;
     top: 8.90rem; 
+    border-style: solid;
+    border-color: black;
 }
 
 .E2_note{
     color: #111;
     position: absolute;
     padding: 16.125rem 1.525rem 1.125rem 1.125rem;
-    margin-left: 6.94rem;
-    z-index: 53;
+    margin-left: 61.1rem;
+    z-index: 91;
     background-color: #fff;
     cursor: pointer;
     left: 2.25rem;
     top: 8.90rem; 
+    border-style: solid;
+    border-color: black;
 }
 
 .C2s_note{
     color: #fff;
     position: absolute;
     padding: 11.25rem 0.8rem 1.125rem 1.125rem;
-    margin-left: 1.6rem;
-    z-index: 52;
+    margin-left: 55.2rem;
+    z-index: 93;
     background-color: #111;
     cursor: pointer;
     left: 2.2rem;
@@ -398,8 +405,8 @@ body{
     color: #fff;
     position: absolute;
     padding: 11.25rem 0.8rem 1.125rem 1.125rem;
-    margin-left: 5.6rem;
-    z-index: 54;
+    margin-left: 59.5rem;
+    z-index: 95;
     background-color: #111;
     cursor: pointer;
     left: 2rem;
@@ -411,56 +418,64 @@ body{
     color: #111;
     position: absolute;
     padding: 16.125rem 1.525rem 1.125rem 1.125rem;
-    margin-left: 10.3rem;
-    z-index: 55;
+    margin-left: 65.0rem;
+    z-index: 97;
     background-color: #fff;
     cursor: pointer;
     left: 2.4rem;
     top: 8.90rem; 
+    border-style: solid;
+    border-color: black;
 }
 
 .G2_note{
     color: #111;
     position: absolute;
     padding: 16.125rem 1.525rem 1.125rem 1.125rem;
-    margin-left: 13.7rem;
-    z-index: 56;
+    margin-left: 69.0rem;
+    z-index: 99;
     background-color: #fff;
     cursor: pointer;
     left: 2.45rem;
     top: 8.90rem; 
+    border-style: solid;
+    border-color: black;
 }
 
 .A2_note{
     color: #111;
     position: absolute;
     padding: 16.125rem 1.525rem 1.125rem 1.125rem;
-    margin-left: 17.1rem;
-    z-index: 58;
+    margin-left: 72.7rem;
+    z-index: 101;
     background-color: #fff;
     cursor: pointer;
     left: 2.7rem;
     top: 8.90rem; 
+    border-style: solid;
+    border-color: black;
 }
 
 .B2_note{
     color: #111;
     position: absolute;
     padding: 16.125rem 1.525rem 1.125rem 1.125rem;
-    margin-left: 20.5rem;
-    z-index: 60;
+    margin-left: 76.5rem;
+    z-index: 103;
     background-color: #fff;
     cursor: pointer;
     left: 3rem;
     top: 8.90rem; 
+    border-style: solid;
+    border-color: black;
 }
 
 .F2s_note{
     color: #fff;
     position: absolute;
     padding: 11.25rem 0.8rem 1.125rem 1.125rem;
-    margin-left: 12.2rem;
-    z-index: 57;
+    margin-left: 67.5rem;
+    z-index: 105;
     background-color: #111;
     cursor: pointer;
     left: 2.25rem;
@@ -472,8 +487,8 @@ body{
     color: #fff;
     position: absolute;
     padding: 11.25rem 0.8rem 1.125rem 1.125rem;
-    margin-left: 16.2rem;
-    z-index: 59;
+    margin-left: 71.8rem;
+    z-index: 107;
     background-color: #111;
     cursor: pointer;
     left: 2rem;
@@ -485,12 +500,11 @@ body{
     color: #fff;
     position: absolute;
     padding: 11.25rem 0.8rem 1.125rem 1.125rem;
-    margin-left: 20.2rem;
-    z-index: 61;
+    margin-left: 76.0rem;
+    z-index: 109;
     background-color: #111;
     cursor: pointer;
     left: 1.8rem;
     top: 8.90rem; 
     border-radius: 0 0 20px 20px;
 }
-*/
